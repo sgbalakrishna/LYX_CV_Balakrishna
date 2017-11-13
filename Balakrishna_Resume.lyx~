@@ -1,0 +1,811 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\date{}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "times" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 2cm
+\headheight 2cm
+\headsep 0cm
+\footskip 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\series bold
+\size huge
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "65col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align left
+
+\series bold
+\size huge
+Curriculum Vitae 
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace 0.75cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align left
+
+\series bold
+\size larger
+Dr.
+ Soorali Ganeshamurthy, Balakrishna
+\end_layout
+
+\begin_layout Plain Layout
+\align left
+
+\size large
+Turnackerstr,57
+\end_layout
+
+\begin_layout Plain Layout
+70794, Filderstadt.
+\end_layout
+
+\begin_layout Plain Layout
+\align left
+
+\series bold
+\size large
+Email:
+\series default
+ balakrishna@web.de
+\end_layout
+
+\begin_layout Plain Layout
+\align left
+
+\series bold
+\size large
+Phone:
+\series default
+ +49 (0) 176-30962464
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "b"
+use_parbox 0
+use_makebox 0
+width "35col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\begin_inset VSpace 1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align right
+\begin_inset Graphics
+	filename photo_fotor.jpg
+	lyxscale 10
+	scale 10
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align left
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.25pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+
+\size normal
+\color black
+EDUCATION SUMMARY: 
+\end_layout
+
+\begin_layout Description
+\align block
+Ph.D.
+ Applied Physics - University of Saarland (UDS), Saarbrücken, Germany.
+\end_layout
+
+\begin_layout Description
+\align block
+M.Sc.
+ Theoretical Physics - Kuvempu University, Karnataka, India.
+\end_layout
+
+\begin_layout Section*
+
+\size normal
+Technical skills & Tools: 
+\end_layout
+
+\begin_layout Itemize
+\align block
+
+\series bold
+Programming 
+\series default
+: R, Python ,Shiny, 
+\size normal
+Javascript,
+\size default
+ Matlab, LabVIEW.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Visualisation & Reporting :
+\series default
+ Jupyter Notebook, R-Markdown, Latex, advanced data visualisation with D3.js.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Interests: 
+\series default
+Ensemble learning, Artificial neural networks, Visual analytics.
+\end_layout
+
+\begin_layout Itemize
+\align block
+
+\series bold
+Databases:
+\series default
+ SQL, noSQL.
+\end_layout
+
+\begin_layout Itemize
+\align block
+
+\series bold
+Version-Control:
+\series default
+ GIT, SVN.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Productivity:
+\series default
+ SCRUM, Jira and Confluence.
+\end_layout
+
+\begin_layout Section*
+
+\size normal
+RESUME:
+\end_layout
+
+\begin_layout Standard
+I am a Physicist and a Data scientist experienced with advanced machine
+ learning, algorithms and advanced visual analytics.
+ I love finding solutions to complex business challenges through advanced
+ machine learning algorithms.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+Previous to the current job, I have worked as researcher, in a high-performance
+ research and development environments that is focused on innovation in
+ science and technology.
+ 
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+\paragraph_spacing single
+\noindent
+
+\size normal
+WORK EXPERIENCE:
+\end_layout
+
+\begin_layout Section*
+\noindent
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.2pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+11/2016- Current - Data Scientist, Daimler Financial Services (DFS) Stuttgart.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Experimental research in the field of Physics and Mechatronics.
+\end_layout
+
+\begin_layout Itemize
+Measurement and Data Analysis, Data visualization & Background in optimization
+ problems.
+\end_layout
+
+\begin_layout Itemize
+Mathematical modeling in: Matlab, Python and R.
+\end_layout
+
+\begin_layout Itemize
+Research publications in very high ranking journals\SpecialChar endofsentence
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+07/2011- 11/2015 - Research Associate, INM - Leibniz Institut für neue Materiali
+en, Saarbrucken, Germany.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Experimental research in the field of Physics and Mechatronics.
+\end_layout
+
+\begin_layout Itemize
+Measurement and Data Analysis, Data visualization & Background in optimization
+ problems.
+\end_layout
+
+\begin_layout Itemize
+Mathematical modeling in: Matlab, Python and R.
+\end_layout
+
+\begin_layout Itemize
+Research publications in very high ranking journals\SpecialChar endofsentence
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+07/2009- 11/2011 - Research Assistant, IISc - Indian Institute of Science,
+ Bangalore, India.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Software programmer for Measurement and Automation Experiments.
+ 
+\end_layout
+
+\begin_layout Itemize
+Data Analysis and Visualization
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+\noindent
+
+\size normal
+PROJECT EXPERIENCE:
+\end_layout
+
+\begin_layout Section*
+\noindent
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.2pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\noindent
+
+\series bold
+\color black
+Friction at the nanoscale :
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+INM - Leibniz-Institut für Neue Materialien, Saarbrücken is focused on the
+ research and development of materials for today, tomorrow and the future.
+ Chemists, physicists, biologists, materials and engineering scientists
+ shape the work at INM.
+ From molecule to pilot production, they follow the recurring questions:
+ Which material properties are new, how can they be investigated and how
+ can they be used in the future? The project was aimed at discovering lower
+ limit of friction that any best solid lubricant can offer at the nanoscale
+ sliding contact systems like Microelectromechanical systems (MEMS).
+ The MEMS market of is growing faster than the average semiconductor industry.
+ Beyond that, MEMS sensors become the heart of whole classes of new devices
+ like fitness trackers, smart watches, virtual reality glasses and smart
+ sensor nodes for the Internet of Things.
+ 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+As an experimental physicist, I designed and developed the necessary experiment
+ and data analysis routines to find the scale dependent friction phenomena
+ on graphitic surfaces which will be used as solid lubricants for MEMS.
+ This AFM-based mechanical project aimed at discovering the nanoscale behavior
+ friction depending on sliding direction.
+ Many parameters like the influence of the slider pressure, slider geometry,
+ the number of layers of graphite and electric potential on the (direction
+ dependent) fraction and were taken into account to get fruitful information
+ from Big experimental data.
+ Data analysis consisted an extensive usage of some of the core Machine
+ learning algorithms 
+\emph on
+Gaussian mixture model, k-Nearest Neighbors (KNN) algorithm, Expectation
+ Maximisation (EM) for classification.
+ To present core insights in a clear and eye-catching way, data visualization
+ created with powerful and flexible open-source charting API Dimple.js and
+ D3.js
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+
+\series bold
+Tools:
+\series default
+\size normal
+ 
+\series bold
+\size default
+R, Python, Charting API Dimple.js, D3.js.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\color black
+Mechanical Stability of Graphene:
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+Graphene has been considered, as a solid lubricant for smart mechanical
+ devices of the future.
+ This project was aimed at simultaneously discovering the breaking strength
+ and the mechanical stability of graphene when coated on metals.
+ As a physicist and data analyst, I have designed and developed scripts
+ for the automated experiment scheduling, data acquisition data transformation
+ and data analysis.
+ Upon a rigorous data analysis of the first set of mechanical mesurements,
+ I was able to develope models to predict better experimental strategies
+ for future experiments.
+ Regression analysis on these data helped to predict the outcome of the
+ same kind of experiment when performed at extreme and realistic conditions.
+ Machine learning algorithms employed during this project were 
+\emph on
+Ordinary Least Squares Regression (OLSR), Linear Regression, Logistic Regression
+, Multivariate Adaptive Regression Splines (MARS)
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+
+\series bold
+Tools:
+\series default
+ 
+\series bold
+R, Matlab, Charting API Dimple.js, D3.js
+\series default
+.
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+\color black
+Master's Project: Electronic wavelength meter using dual output photodiode
+ WS 7.56-TOS.
+\end_layout
+
+\begin_layout Standard
+Aim of this project was to construct an accurate and portable wavelength
+ meter employing a dual output photo diode.
+ First the data from the photodiode was cleaned to exclude errors and thermal
+ fluctuations by implementing data filtering algorithm finally a reliable
+ result for confirmed from calibrating the instrument with know light sources.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+
+\series bold
+Skills acquired in this project : 
+\series default
+Programming micro-controller in C, Circuit design Signal analysis and C
+ programming for embedded microcontroller systems.
+ 
+\end_layout
+
+\begin_layout Section*
+\paragraph_spacing single
+\noindent
+
+\size normal
+HIGHER EDUCATION:
+\end_layout
+
+\begin_layout Section*
+\noindent
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.2pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+
+\size normal
+\color black
+July/2011 – July/2015 PhD in 
+\color inherit
+Applied
+\color black
+ Physics, Saarland University (UDS) 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Acquired advanced skills: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Data-analysis and Programming.
+\end_layout
+
+\begin_layout Itemize
+Signal processing and Image processing.
+\end_layout
+
+\begin_layout Itemize
+Statistics and simulation from analyzing large image and spectroscopic datasets
+ with R, Python and Matlab.
+\end_layout
+
+\begin_layout Itemize
+Collaborated extensively with international research groups.
+\end_layout
+
+\begin_layout Itemize
+Presented my work in several national and international conferences.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection*
+
+\size normal
+\color black
+June/2004 – July/2006 M.Sc in
+\color inherit
+ Physics
+\color black
+, Kuvempu University, Karnataka, India
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Acquired advanced skills: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Mathematical methods in Physics.
+\end_layout
+
+\begin_layout Itemize
+Statistical mechanics and Thermodynamics.
+\end_layout
+
+\begin_layout Itemize
+Classical and Quantum mechanics 
+\end_layout
+
+\begin_layout Itemize
+Nuclear Physics and Condensed matter physics 
+\end_layout
+
+\begin_layout Itemize
+Digital electronics and Computer science
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+
+\size normal
+\color black
+PUBLICATIONS & CONFERENCES
+\end_layout
+
+\begin_layout Section*
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.2pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+
+\size normal
+\color black
+Peer-reviewed and refereed publications in high ranking journals, cited
+ multiple times.
+\end_layout
+
+\begin_layout Itemize
+Preferential sliding directions on graphite.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Name of publisher: Physical Review B.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Atomic Scale Mechanisms of Friction Reduction and Wear Protection by graphene.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Name of publisher:Nano Letters.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Manuscript Submitted and under review: ACS Nano.
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Contrast in nanoscale friction between rotational domains of graphene on
+ Pt(111).
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+
+\size normal
+\color black
+Presentation of work at major international conferences:
+\end_layout
+
+\begin_layout Itemize
+Poster presentation at SPP 1459 Graphene: Burg Rothenfels 2011.
+\end_layout
+
+\begin_layout Itemize
+INASCON 2012 – 6th International Nano science Student Conference.
+\end_layout
+
+\begin_layout Itemize
+Oral presentation at the Workshop on Advanced Scanning Probe Microscopy
+ Techniques, KIT, karlsruhe, February 24-25, 2014.
+\end_layout
+
+\begin_layout Itemize
+Poster presentation-Nanobrücken conference 2014 -Saarbrücken Germany.
+\end_layout
+
+\begin_layout Itemize
+Oral and poster presentation-GORDON research conference on Tribology held
+ at Bentley University campus, Boston MA.-2014.
+\end_layout
+
+\begin_layout Section*
+
+\size normal
+\color black
+LANGUAGE & IT SKILLS 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "0.2pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\series bold
+Languages
+\series default
+ English (fluent), German (C1 level), Kannada (native), Tamil (fluent),
+ Hindi (Basic).
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Statistical data analysis:
+\series default
+ Bayesian, frequentist and Multivariate.
+\end_layout
+
+\end_body
+\end_document
